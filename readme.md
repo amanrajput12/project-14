@@ -12,7 +12,7 @@
   ,__align item__
   * Learned to used  __z index__
   *  Leaned to  change the position using __realtive,absolute, etc__
-   * Learned to target elements using __:nth- child ,:f to create button using irst-child, :last child__
+   * Learned to target elements using __:nth- child ,: first-child, :last child__
   * Learned to crete button using
   __padding__  and __border radius__
   
